@@ -14,15 +14,6 @@ This repository contains solutions to the Java lab problems undertaken during th
 
 During the 5th semester of my BTECH CSE program, I worked on various Java programming assignments as part of the lab curriculum. This repository is a compilation of the solutions to those lab problems. Each assignment is organized into its respective folder for easy access.
 
-## Lab Assignments
-
-- [Lab 1: Introduction to Java](/Lab%201%20-%20Introduction%20to%20Java)
-- [Lab 2: Control Statements](/Lab%202%20-%20Control%20Statements)
-- [Lab 3: Arrays and Functions](/Lab%203%20-%20Arrays%20and%20Functions)
-- [Lab 4: Object-Oriented Programming](/Lab%204%20-%20Object-Oriented%20Programming)
-- [Lab 5: Exception Handling](/Lab%205%20-%20Exception%20Handling)
-
-(Add more assignments as needed)
 
 ## Getting Started
 
